@@ -222,7 +222,7 @@ conda update anaconda
 
 觉得有用打赏一下？
 
-![](payment.jpg)
+![]()
 
 打两个广告：
 
